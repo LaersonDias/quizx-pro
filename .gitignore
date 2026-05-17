@@ -1,0 +1,16 @@
+# ANGULAR
+frontend/node_modules
+frontend/dist
+
+# ENV
+.env
+
+# LOGS
+*.log
+
+# VS CODE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
